@@ -6,7 +6,7 @@ When I need to share my code with someone else.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-
+Because is better to control when is the best moment to share the changes. If the changes were automatically up-to-date, the remote repository could be in a invalid state. 
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
