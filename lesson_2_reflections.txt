@@ -8,3 +8,11 @@ Staging area is the intermediate area before the commit, where the files can be 
 Working directory is the directory where all the files are, including the .git directory. 
 Repository is all the directory using version cotrol. 
 Repository is the full library of files that can be cloned from another repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+adding only the updated files to the staging area and then doing the commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When developing experimental features. Branches are good to allow a different feature be built separated from the master.
