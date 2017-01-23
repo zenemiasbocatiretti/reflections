@@ -21,7 +21,7 @@ Easy to compare with the local updates and to ease the merging.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Via e-mail. No use of a lot of commands, but it will be difficult to trace the updates and more communication represented by a lot of number of e-mails will be necessary.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
