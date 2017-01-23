@@ -26,4 +26,4 @@ Via e-mail. No use of a lot of commands, but it will be difficult to trace the u
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When a new feature are being developed or a bug is being corrected. Separate branches are independent to update and do not suffer with master update, but they can be out-of-date soon if master is continuous up-to-date. Directly in master is good if you are not collaborating with a project, working alone. 
